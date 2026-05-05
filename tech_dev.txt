@@ -1,8 +1,4 @@
-1. Instalar dependencias y probar local
-En la carpeta del proyecto (SAMPLE_DEV_SEC_OPS):
-npm install        # instala lodash, jest, etc.
-npm test           # verifica que las pruebas pasen
-npm run build      # crea la carpeta dist con el index.html
+
 
 2. Inicializar Git y hacer el primer commit
 git init
